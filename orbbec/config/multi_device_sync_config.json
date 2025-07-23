@@ -1,0 +1,40 @@
+{
+  "devices": [
+    {
+      "serial_number": "CL2J353007L",
+      "config": {
+        "mode": "PRIMARY",
+        "depth_delay_us": 0,
+        "color_delay_us": 0,
+        "trigger_to_image_delay_us": 0,
+        "trigger_out_enable": true,
+        "trigger_out_delay_us": 0,
+        "frames_per_trigger": 1
+      }
+    },
+    {
+      "serial_number": "CL2J353009D",
+      "config": {
+        "mode": "SECONDARY",
+        "depth_delay_us": 160,
+        "color_delay_us": 0,
+        "trigger_to_image_delay_us": 0,
+        "trigger_out_enable": true,
+        "trigger_out_delay_us": 0,
+        "frames_per_trigger": 1
+      }
+    },
+    {
+      "serial_number": "CL2J353008T",
+      "config": {
+        "mode": "SECONDARY",
+        "depth_delay_us": 320,
+        "color_delay_us": 0,
+        "trigger_to_image_delay_us": 0,
+        "trigger_out_enable": true,
+        "trigger_out_delay_us": 0,
+        "frames_per_trigger": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+gdown
+faster-coco-eval>=1.6.5
+PyYAML
+tensorboard
+einops
+timm
+matplotlib==3.7.1
+tqdm
+yacs
+numba
+filterpy
+scikit-image
+opencv-python
+ipython
+pybind11
+pybind11-global
+opencv-python
+numpy<2.0  # see https://github.com/orbbec/pyorbbecsdk/issues/47
+plyfile # for saving point cloud
+open3d # for visualization point cloud
+av # for h264 decoding
+pygame # for visualization
+torchreid
+scikit-learn
+pytest
+transformers
